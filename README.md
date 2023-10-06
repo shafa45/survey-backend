@@ -1,8 +1,5 @@
 # Survey Backend
 
-![GitHub issues](https://img.shields.io/github/issues/shafa45/survey-backend)
-![GitHub forks](https://img.shields.io/github/forks/shafa45/survey-backend)
-![GitHub stars](https://img.shields.io/github/stars/shafa45/survey-backend)
 
 ## Description
 
