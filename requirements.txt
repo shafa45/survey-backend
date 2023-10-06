@@ -2,3 +2,4 @@ Flask
 pyrebase 
 python-dotenv
 flask-cors
+gunicorn
