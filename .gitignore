@@ -1,0 +1,42 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.py[cod]
+*$py.class
+
+# Flask
+instance/
+.webassets-cache
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+survey-env/
+.flaskenv
+
+# Pyrebase
+serviceAccount.json
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+logs
+*.log
+
+# Databases
+*.sqlite
+
+# Others
+.DS_Store
+*.swp
+*~
+
